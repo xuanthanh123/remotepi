@@ -19,7 +19,7 @@ $(function(){
         var durum = ($(this).find('div').attr('class') == "acik" ? "kapali":"acik");
         var pin = $(this).attr('id');
         $.ajax({
-            url: 'https://rpi-gkipcak.c9users.io/remotepi/pins_write.php',
+            url: '', //pins.php file path
             type: 'post',
             data : {"pin": pin, "durum": durum},
             success: function(veri){
