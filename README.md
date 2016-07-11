@@ -1,4 +1,4 @@
-<h2>Remote PI</h2>
+<h3>Remote PI</h3>
 
 GPIO pinlerini web uygulaması olarak yönetmek için geliştirilmiş küçük bir araç.
 
