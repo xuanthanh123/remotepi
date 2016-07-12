@@ -4,9 +4,6 @@ import mechanize, sys, time, os
 GPIO.setmode(GPIO.BOARD)
 GPIO.setwarnings(False)
 
-GPIO.setup(int("08"), GPIO.OUT)
-GPIO.output(int("08"), 1)
-
 br  = mechanize.Browser()
 host = "" # your host, web files...
 
