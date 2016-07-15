@@ -1,5 +1,7 @@
 <h3>Remote PI</h3>
 
+<img src="http://i.hizliresim.com/goM8BL.png" width=250>
+
 GPIO pinlerini web uygulaması olarak yönetmek için geliştirilmiş küçük bir araç.
 
 <h3>Kullanımı</h3>
